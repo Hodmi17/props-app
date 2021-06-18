@@ -1,0 +1,15 @@
+.inventorycontainer{
+    border:solid 1px black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:100%;
+    
+
+}
+div{
+    border: solid 1px whitesmoke;
+    flex:1;
+    background-color: rgb(4, 87, 93);
+    
+}
